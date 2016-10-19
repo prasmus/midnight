@@ -2,7 +2,7 @@
 //exercise 2.3
 
 public class midnight {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         int hour = 12;
         int minute = 00;
